@@ -1,0 +1,23 @@
+{
+  "name": "rxw",
+  "version": "0.0.5",
+  "description": "a tool package for organization actions, reduce method in react redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "actions",
+    "react",
+    "redux"
+  ],
+  "dependencies": {
+    "redux": "^4.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code1986/rxw.git"
+  },
+  "author": "liming",
+  "license": "Apache License 2.0"
+}
