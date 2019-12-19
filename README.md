@@ -79,8 +79,8 @@ export default VisibleActions;
 `todo_actions.js` and `visible_actions.js` will create a `state` like this:
 ```json
 {
-    "todos" : [],     /* from todo_actions.js */
-    "visible" : "all" /* from visible_actions.js */
+    "todos" : [],     /*from todo_actions.js*/
+    "visible" : "all" /*from visible_actions.js*/
 }
 ```
 
