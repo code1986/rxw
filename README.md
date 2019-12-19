@@ -77,7 +77,7 @@ export default VisibleActions;
 
 `stateName` and `initState` is used to create init state in `state` object. 
 `todo_actions.js` and `visible_actions.js` will create a `state` like this:
-```json
+```js
 {
     "todos" : [],     /*from todo_actions.js*/
     "visible" : "all" /*from visible_actions.js*/
